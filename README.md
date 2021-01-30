@@ -1,7 +1,6 @@
 # 获取指定Github账户的日贡献历史
 
 [![last-commit](https://img.shields.io/github/last-commit/HollowMan6/Github-Contribution)](../../graphs/commit-activity)
-[![release-date](https://img.shields.io/github/release-date/HollowMan6/Github-Contribution)](../../releases)
 ![Python package](https://github.com/HollowMan6/Github-Contribution/workflows/Python%20package/badge.svg)
 
 [![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
